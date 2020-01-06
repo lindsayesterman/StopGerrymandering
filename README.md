@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 
 <head>
@@ -38,11 +37,5 @@
 	<label name="lastName">Last Name:</label>
 	<input type="textbox" size="20" name="lastnName"/><br><br>
 	<label name="letterToRep">Letter To Representative:</label><br><br>
-	Letter To Representative: <input type="textbox" class="resizedTextbox" name="letterToRep" value="potato">
+	Letter To Representative: <input type="textbox" class="resizedTextbox" name="letterToRep" value="hey">
 	</form>
-
-
-  
-  </body>
-
-</html>
