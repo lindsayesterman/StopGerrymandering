@@ -39,7 +39,7 @@
 	<input type="textbox" size="20" name="lastName"/><br><br>
 	<label name="letterToRep">Letter To Representative:</label><br><br>
 	<textarea name="textarea"
-   rows="350" cols="130">hey</textarea>
+   rows="50" cols="100">hey</textarea>
 	</form>
 
 
