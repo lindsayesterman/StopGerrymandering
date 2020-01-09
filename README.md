@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -9,7 +11,6 @@
 
 		body {margin-bottom: 50px;}
 
-.resizedTextbox {width: 500px; height: 500px}
 
 </style>
 
@@ -35,7 +36,14 @@
 	<label name="firstName">First Name:</label>
 	<input type="textbox" size="20" name="firstName"/><br><br>
 	<label name="lastName">Last Name:</label>
-	<input type="textbox" size="20" name="lastnName"/><br><br>
+	<input type="textbox" size="20" name="lastName"/><br><br>
 	<label name="letterToRep">Letter To Representative:</label><br><br>
-	Letter To Representative: <input type="textbox" class="resizedTextbox" name="letterToRep" value="hey">
+	<textarea name="textarea"
+   rows="350" cols="130">hey</textarea>
 	</form>
+
+
+  
+  </body>
+
+</html>
