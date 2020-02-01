@@ -30,14 +30,16 @@
 	<center><img height="350px" width="550px"    src="https://lithub.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-30-at-2.20.15-PM.png"></center>
 
 	<h3>You can stop this immoral practice. We have made a letter for you to send to your local representative to help them consider voting against gerrymandering. All you have to do is sign the letter and click send. You can make changes to the letter and add things if you would like too. <h3>
-<form>
+	
+<form action="MILTO:shilospaw@gmail.com" method="post" enctype="text/plain">
 	<label name="firstName">First Name:</label>
 	<input type="textbox" size="20" name="firstName"/><br><br>
 	<label name="lastName">Last Name:</label>
 	<input type="textbox" size="20" name="lastName"/><br><br>
 	<label name="letterToRep">Letter To Representative:</label><br><br>
 	<textarea name="textarea"
-   rows="50" cols="100">hey</textarea>
+   rows="30" cols="130">hey</textarea>
+   <input type="submit"> 
 	</form>
 
 
