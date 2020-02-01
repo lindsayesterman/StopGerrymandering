@@ -38,7 +38,7 @@
 	<input type="textbox" size="20" name="lastName"/><br><br>
 	<label name="letterToRep">Letter To Representative:</label><br><br>
 	<textarea name="textarea"
-   rows="30" cols="130">hey</textarea>
+   rows="30" cols="50">hey</textarea>
    <input type="submit"> 
 	</form>
 
