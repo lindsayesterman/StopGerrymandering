@@ -45,7 +45,7 @@ I am sending this letter because I believe my vote should not be wasted. I belie
 Consider voting against gerrymandering. I will assure my vote if you do. 
 
 Thank you for taking the time to read this.</textarea>
-   <input type="submit"> </center>
+ 
    <div class="formBlock">
 		<h4>Put in your email to send!</h4>
 
