@@ -38,8 +38,25 @@
 	<input type="textbox" size="20" name="lastName"/><br><br>
 	<label name="letterToRep">Letter To Representative:</label><br><br>
 	<textarea name="textarea"
-   rows="40" cols="100">hey</textarea>
+   rows="40" cols="100">Dear Representative,
+
+I am sending this letter because I believe my vote should not be wasted. I believe everyone deserves the opportunity to have a vote that won’t be unethically placed somewhere it will be made meaningless. One of the most important parts of the politician’s campaign I’ll be voting for, is their view on gerrymandering. Gerrymandering teaches our youth that it is OK to do immoral practices to get what they want. If you vote against gerrymandering and end this form of immorality, you can guarantee my vote in the upcoming election.
+
+Consider voting against gerrymandering. I will assure my vote if you do. 
+
+Thank you for taking the time to read this.</textarea>
    <input type="submit"> </center>
+   <div class="formBlock">
+		<h4>Put in your email to send!</h4>
+
+		<form method="POST" action="/signup/success">
+			<p>Email: <input type="text" name="Email" size="24"></p>
+			<p><input type="submit" value="Submit" name="Submit"></p>
+		</form>
+
+
+		<div>
+
 	</form>
 
 
