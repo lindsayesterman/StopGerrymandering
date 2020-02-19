@@ -57,7 +57,5 @@ Thank you for taking the time to read this.</textarea>
 
 		<div>
 
-	</form>
-
 
   
