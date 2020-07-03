@@ -52,4 +52,4 @@ Thank you for taking the time to read this.
 </textarea>
 <br><br>
 Find your local congress representative <a href="https://www.house.gov/representatives/find-your-representative">here</a>.<br><br>
-<a href="mailto:name@email.com">Copy and paste letter then input local rep and send!/a>
+Copy and paste letter then input local rep and <a href="mailto:name@email.com">send</a>!
