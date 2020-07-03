@@ -39,11 +39,7 @@
 	<h3>We have made a letter for you to send to your local representative to help them consider voting against gerrymandering. All you have to do is sign your name and click send. We encourage you to make changes to the letter if you want to rephrase or add things! <h3>
 
 
-<form action="MILTO:shilospaw@gmail.com" method="post" enctype="text/plain">
-	<center><label name="firstName">First Name:</label>
-	<input type="textbox" size="20" name="firstName"/><br><br>
-	<label name="lastName">Last Name:</label>
-	<input type="textbox" size="20" name="lastName"/><br><br>
+
 	<label name="letterToRep">Letter To Representative:</label><br><br>
 	<textarea name="textarea"
    rows="x" cols="x">Dear Representative,
@@ -54,16 +50,6 @@ Consider voting against gerrymandering. I can assure my vote if you do.
 
 Thank you for taking the time to read this.
 </textarea>
-<div class="formBlock">
-		<h4>Put in your email to send!</h4>
 
-		<form method="POST" action="/signup/success">
-			<p>Email: <input type="text" name="Email" size="24"></p>
-			<p><input type="submit" value="Submit" name="Submit"></p>
-		</form>
-
-
-		<div>
-
-
-  
+Find your local congress representative <a href="https://www.house.gov/representatives/find-your-representative">here</a>.
+<a href="mailto:name@email.com">Copy and paste letter then input local rep and send!/a>
