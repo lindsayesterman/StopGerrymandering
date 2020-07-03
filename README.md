@@ -50,6 +50,6 @@ Consider voting against gerrymandering. I can assure my vote if you do.
 
 Thank you for taking the time to read this.
 </textarea>
-
-Find your local congress representative <a href="https://www.house.gov/representatives/find-your-representative">here</a>.
+<br><br>
+Find your local congress representative <a href="https://www.house.gov/representatives/find-your-representative">here</a>.<br><br>
 <a href="mailto:name@email.com">Copy and paste letter then input local rep and send!/a>
